@@ -14,7 +14,7 @@ Welcome to my portfolio! I’m [Yael Munoz], an aspiring web developer passionat
 
 ## Projects
 
-### [Calculator](./Calculator)
+### [Calculator]
 
 A fully functional calculator built with vanilla JavaScript, HTML, and CSS.
 
@@ -26,7 +26,7 @@ Features include:
 
 - Error handling for invalid operations
 
-### [Pokemon Fetcher](./PokemonFetcher)
+### [Pokemon Fetcher]
 
 A web app that fetches and displays Pokemon sprites using the [PokeAPI](https://pokeapi.co/).
 
