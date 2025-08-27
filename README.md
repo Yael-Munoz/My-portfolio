@@ -1,6 +1,6 @@
 # Yael Munoz - Web Developer Portfolio
 
-Welcome to my portfolio! I’m [Yael Munoz], an aspiring web developer passionate about creating clean, functional, and user-friendly web applications. I’m continuously expanding my skills and eager to contribute to innovative projects.
+Welcome to my portfolio! I’m Yael Munoz, an aspiring web developer passionate about creating clean, functional, and user-friendly web applications. I’m continuously expanding my skills and eager to contribute to innovative projects.
 
 ---
 
