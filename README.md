@@ -6,7 +6,7 @@ Welcome to my portfolio! I’m Yael Munoz, an aspiring web developer passionate 
 
 ## Skills & Technologies
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), JSON, React
 - **Tools:** Git, GitHub, VS Code
 
 ---
