@@ -1,0 +1,82 @@
+.container {
+    height: 100%;
+    width: 60%;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #b7b7b7;
+}
+
+.select-boook-message {
+    border-radius: 20px;
+    border: 2px solid white;
+    font-size: 3.5rem;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  padding: 14px 20px;
+  border-radius: 12px;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  margin: 24px auto;
+  max-width: 90%;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 95%;
+    width: 80%;
+    margin-top: 1rem;
+    margin-left: 10rem;
+}
+
+.book-cover {
+    height: 28rem;
+    width: 24rem;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    object-fit: cover;
+    transition: box-shadow 0.3s ease;
+}
+
+.title {
+    max-width: 90%;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #222;
+    text-align: center;
+    margin: 2rem 0;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;
+}
+
+.description {
+    text-align: center;
+    margin-top: 0;
+    font-size: 1.2rem;
+    color: #444;
+}
+
+.author {
+    font-style: italic;
+    font-size: 1.4rem;
+    color: #555;
+    max-width: 80%;
+    margin: 1rem auto 0 auto;
+    text-align: center;
+    word-wrap: break-word;
+    line-height: 1.3;
+}

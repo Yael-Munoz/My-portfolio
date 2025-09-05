@@ -1,0 +1,105 @@
+.container {
+  width: 35%;
+  height: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+  background-color: #1e1e1e;
+  border: 2px solid #2c3e50;
+  border-radius: 10px;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  background-color: #2980b9;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  text-align: center;
+  margin: 0 auto 1rem auto;
+  display: block;
+  width: fit-content;
+}
+
+.scroll-container {
+  height: 70%;
+  width: 100%;
+  padding: 0.5rem 0.75rem;    
+  border: 1px solid #34495e;
+  border-radius: 6px;
+  overflow-y: auto;
+  background-color: #2c3e50;
+  box-sizing: border-box;
+}
+.scroll-container::-webkit-scrollbar {
+  width: 12px; 
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #1f2c3b;        
+  border-radius: 10px;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #3498db, #2980b9);
+  border-radius: 10px;
+  box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);         
+  border: 2px solid #1f2c3b;                          
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #5dade2, #3498db); 
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-size: 1.1rem;
+}
+
+.bookItem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.bookItem:hover {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.bookImage {
+  width: 3.5em;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.bookTitle {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 25em;
+  font-size: 1.2rem;
+  line-height: 1.4em;
+  color: #ecf0f1;
+}
+
+.indexIcon {
+  width: 1.5em;
+  height: 1.5em;
+}
