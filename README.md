@@ -16,7 +16,7 @@ I build clean, user-focused web applications using MERN stack technologies, with
 
 ## Projects
 
-### Full-Stack Web Application (CitaYa – in progress)
+### Full-Stack Web Application ([CitaYa – in progress](https://github.com/Yael-Munoz/CitaYa))
 
 A collaborative full-stack project built using MongoDB, Express, React, and Node.js (MERN).  
 
@@ -26,7 +26,7 @@ A collaborative full-stack project built using MongoDB, Express, React, and Node
 
 ---
 
-### Online Project – SoftEngineerExe
+### Online Project – [softengineerexe](https://softengineerexe.com)
 
 A collaborative web project built with a friend, deployed online for users to browse and download books by category.  
 
@@ -36,7 +36,7 @@ A collaborative web project built with a friend, deployed online for users to br
 
 ---
 
-### MERN-1 Project (User Account Management)
+### [MERN-1 Project](https://github.com/Yael-Munoz/My-portfolio/tree/main/MERN%20-%201) (User Account Management)
 
 A full-stack MERN project for managing user accounts with JWT-based authentication stored in HTTP-only cookies.  
 
@@ -47,7 +47,7 @@ A full-stack MERN project for managing user accounts with JWT-based authenticati
 ---
 
 
-### Book Selector (React)
+### [Book Selector (React)](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20book)
 
 An interactive React app that displays a library of books stored in a JSON file.  
 
@@ -57,7 +57,7 @@ An interactive React app that displays a library of books stored in a JSON file.
 
 ---
 
-### React Stopwatch
+### [React Stopwatch](https://github.com/Yael-Munoz/My-portfolio/tree/main/React%20-%20stopwatch)
 
 A responsive stopwatch app built with React functional components and hooks.  
 
@@ -67,7 +67,7 @@ A responsive stopwatch app built with React functional components and hooks.
 
 ---
 
-### Pokémon Fetcher
+### [Pokémon Fetcher](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20pokemon%20fetcher)
 
 A web app that fetches and displays Pokémon sprites using the PokeAPI.  
 
@@ -77,7 +77,7 @@ A web app that fetches and displays Pokémon sprites using the PokeAPI.
 
 ---
 
-### Calculator
+### [Calculator](https://github.com/Yael-Munoz/My-portfolio/tree/main/JS%20-%20calculator)
 
 A fully functional calculator built with vanilla JavaScript, HTML, and CSS.  
 
