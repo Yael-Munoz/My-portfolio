@@ -1,0 +1,103 @@
+.user-login-container {
+  border-radius: 5%;
+  box-shadow: 0 0 50px rgba(5, 5, 5, 1);
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  align-items: center;
+  background-color: #f8f9fa;
+  height: 60vh;
+  min-height: 30rem;
+  min-width: 30rem;
+  max-width: 50rem;
+  max-height: 40rem;
+}
+
+.user-login-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  color: #333;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.user-login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-login-label {
+  font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  margin-left: 4rem;
+  color: #5f5d5d;
+  align-self: flex-start;
+}
+
+.user-login-input-container {
+  margin-right: 1.5rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 70%;
+  gap: 0.5rem;
+}
+
+.user-login-icon {
+  color: #6d6e6e;
+  flex-shrink: 0;
+}
+
+.user-login-input-container input {
+  flex: 1;
+  padding: 10px;
+  font-size: 0.9rem;
+  height: 1.7rem;
+  padding-left: 1rem;
+  border: none;
+  border-bottom: 2px solid #585858;
+  background-color: transparent;
+  min-width: 18rem;
+}
+
+.user-login-input-container input:focus {
+  outline: none;
+}
+
+.user-login-eye {
+  color: #6d6d6d;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+
+.user-login-button {
+  background-color: #585858;
+  width: 60%;
+  height: 2.5rem;
+  margin-top: 2.5rem;
+  border-radius: 50px;
+  font-size: 1rem;
+  color: #f8f9fa;
+  border: none;
+}
+
+.user-login-button:hover {
+  cursor: pointer;
+}
+
+.user-login-new-account {
+  margin-top: 1.5rem;
+  font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+}
+
+.user-login-new-account a {
+  text-decoration: none;
+  color: #f8ba5d;
+}
