@@ -1,13 +1,13 @@
 # Yael Munoz – Junior Software Developer
 
-I build **clean, user-focused web applications** using **MERN stack technologies**, with experience in APIs, JSON, testing/debugging workflows, and exposure to SQL. I enjoy turning ideas into functional, reliable software and collaborating on projects that enhance both my front-end and full-stack development skills.  
+I build clean, user-focused web applications using MERN stack technologies, with experience in APIs, JSON, testing/debugging workflows, and exposure to SQL. I enjoy turning ideas into functional, reliable software and collaborating on projects that enhance both my front-end and full-stack development skills.
 
 ---
 
 ## Skills & Technologies
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Responsive Design, Component-Based Architecture  
-- **Backend & Databases:** Node.js, Express, MongoDB, MySQL, Java
+- **Backend & Databases:** Node.js, Express, MongoDB, MySQL, Java  
 - **Testing & QA Tools:** Postman (API testing), Manual & Debug Testing  
 - **Other Skills:** RESTful APIs, Problem Solving, Team Collaboration  
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools  
@@ -16,31 +16,42 @@ I build **clean, user-focused web applications** using **MERN stack technologies
 
 ## Projects
 
-### Full-Stack Web Application (CitaYa - in progress)
+### Full-Stack Web Application (CitaYa – in progress)
 
-A collaborative full-stack project built using **MongoDB, Express, React, and Node.js (MERN)**.  
+A collaborative full-stack project built using MongoDB, Express, React, and Node.js (MERN).  
 
 - Features a dynamic, interactive interface with structured back-end for efficient data management  
-- Emphasizes **component-based architecture, responsive design**, and team collaboration via Git  
+- Emphasizes component-based architecture, responsive design, and team collaboration via Git  
 - Showcases full-stack development skills in a collaborative environment  
 
 ---
 
-### Online Project – [SoftEngineerExe](https://softengineerexe.com/)
+### Online Project – SoftEngineerExe
 
 A collaborative web project built with a friend, deployed online for users to browse and download books by category.  
 
-- Developed using **HTML, CSS, and vanilla JavaScript**  
+- Developed using HTML, CSS, and vanilla JavaScript  
 - Dynamic content filtering and interactive UI for easy navigation  
-- Integrated **ad monetization** to provide free access to users  
+- Integrated ad monetization to provide free access to users
 
 ---
+
+### MERN-1 Project (User Account Management)
+
+A full-stack MERN project for managing user accounts with JWT-based authentication stored in HTTP-only cookies.  
+
+- User registration and login, with access and refresh token authentication  
+- Account management: update profile, delete account  
+- Password hashing with bcrypt and React frontend with responsive UI
+
+---
+
 
 ### Book Selector (React)
 
 An interactive React app that displays a library of books stored in a JSON file.  
 
-- Built with **React functional components** and **CSS Modules**  
+- Built with React functional components and CSS Modules  
 - Users click a book cover to view detailed information in a responsive card component  
 - Modular, maintainable structure with clean separation of concerns  
 
@@ -58,7 +69,7 @@ A responsive stopwatch app built with React functional components and hooks.
 
 ### Pokémon Fetcher
 
-A web app that fetches and displays Pokémon sprites using the [PokeAPI](https://pokeapi.co/).  
+A web app that fetches and displays Pokémon sprites using the PokeAPI.  
 
 - User input for Pokémon name  
 - Dynamic fetch and display of Pokémon images  
@@ -78,8 +89,7 @@ A fully functional calculator built with vanilla JavaScript, HTML, and CSS.
 
 ## Contact Me
 
-I’m actively seeking opportunities in **software development** or **quality assurance** and welcome connections.  
+I’m actively seeking opportunities in software development or quality assurance and welcome connections.
 
 - 📧 Email: yaelmunoz2002@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/yaelmunoz/](https://www.linkedin.com/in/yaelmunoz/)  
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/yaelmunoz/
